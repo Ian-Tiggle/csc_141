@@ -1,0 +1,10 @@
+"""
+Ian Tiggle
+Chapter 4
+Printing odd numbers in a list
+"""
+odd_numbers = list(range(1,20, 2))
+print(odd_numbers)
+
+for number in odd_numbers:
+    print(number)
